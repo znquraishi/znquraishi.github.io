@@ -19,6 +19,8 @@ Chart 2: I made a graph that shows the number of Bigfoot sightings per season. I
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/chart2.json" style="width: 100%"></vegachart>
 
+<vegachart schema-url="{{ site.baseurl }}/assets/json/chart1.json" style="width: 100%"></vegachart>
+
 
 # Search The Data & Methods
 
