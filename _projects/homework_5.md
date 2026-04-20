@@ -17,7 +17,7 @@ Chart 1: I made a graph that shows the number of Bigfoot sightings per state. I 
 
 Chart 2: I made a graph that shows the number of Bigfoot sightings per season. I made this graph similarly to Chart 1, with clearly labeled axes, aggregated total sighting counts by season for easy translation, and a bar chart visualization so that the user would be able to compare each season's count to the others. For this chart, I included a dropdown that would highlight each season's bar in a different color while graying out all the other bars. This lets the user focus in on a specific season's count without having to worry about getting it mixed up with the others. Each season's bar also has a different color when selected, which helps the user further differentiate between bars. Overall, this interactivity would help a user who finds it difficult to trace a chart and zero in on a desired value or category.
 
-<vegachart schema-url="/znquraishi.github.io/projects/assets/json/chart1.json" style="width: 100%"></vegachart>
+<vegachart schema-url="{{ site.baseurl }}/assets/json/chart1.json" style="width: 100%"></vegachart>
 
 
 # Search The Data & Methods
