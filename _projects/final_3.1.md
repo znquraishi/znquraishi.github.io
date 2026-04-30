@@ -47,7 +47,7 @@ Missouri Department of Health and Senior Services. (n.d.). Age-adjusted death ra
 <!-- these are written in a combo of html and liquid --> 
 
 <div class = "left">
-{% include elements/button.html link="https://github.com/znquraishi/znquraishi.github.io/_data/NCHS_-_Leading_Causes_of_Death__United_States.csv" text="The Data" %}
+{% include elements/button.html link="https://github.com/znquraishi/znquraishi.github.io/blob/main/_data/NCHS_-_Leading_Causes_of_Death__United_States.csv" text="The Data" %}
 </div>
 
 <div class="right">
