@@ -14,7 +14,7 @@ custom_js:
 
 Group Member (solo): Zayna Quraishi
 
-# Mississippi cancer trends and location
+# Mississippi cancer trends by location
 # By Zayna Quraishi
 
 Public health research is essential to the overall health and wellbeing of the United States. By studying healthcare access, regional effects of diseases and conditions, and death rates, experts can make informed policy decisions that keep us all safe. In this article, we'll apply these studies to Mississippi. According to the contextual bar chart below, Mississippi has the highest age-adjusted death rate in the U.S.  This makes the state a priority for public health officials to examine in order to determine critical areas that are being affected by health conditions.
