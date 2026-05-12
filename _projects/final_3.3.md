@@ -54,5 +54,5 @@ Primary Visualization Data: National Cancer Institute. (n.d.). State cancer prof
 </div>
 
 <div class="right">
-{% include elements/button.html link="https://github.com/znquraishi/znquraishi.github.io/blob/main/python_notebooks/Final3.3_Workbook.ipynb" text="Analysis and Code for All Visualizations" %}
+{% include elements/button.html link="https://github.com/znquraishi/znquraishi.github.io/blob/main/python_notebooks/Final_Project_Workbook.ipynb" text="Analysis and Code for All Visualizations" %}
 </div>
